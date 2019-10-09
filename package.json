@@ -1,7 +1,7 @@
 {
-  "name": "GraphQL-Chat-App",
+  "name": "react-apollo-project-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template for any React and Apollo Project `git clone`, `npm i`, and `npm start`",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,15 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MustafaAnasKH99/GraphQL-Chat-App.git"
+    "url": "git+https://github.com/MustafaAnasKH99/React-Apollo-Project-Template.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MustafaAnasKH99/GraphQL-Chat-App/issues"
+    "url": "https://github.com/MustafaAnasKH99/React-Apollo-Project-Template/issues"
   },
-  "homepage": "https://github.com/MustafaAnasKH99/GraphQL-Chat-App#readme",
+  "homepage": "https://github.com/MustafaAnasKH99/React-Apollo-Project-Template#readme",
   "dependencies": {
     "concurrently": "^4.1.2"
   }
